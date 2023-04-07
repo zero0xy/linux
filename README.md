@@ -1,6 +1,8 @@
 # linux
 
-* **Bagian 1**
+1. **Belajar Command `mkdir`**
 
-    **Belajar Command `mkdir` Di Kali Linux**
+    ```
+    
+    ```
 
