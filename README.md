@@ -1,6 +1,6 @@
 # linux
 
-    <h4>Belajar Command `mkdir`
+## Belajar Command `mkdir`
 
-    Apa itu `mkdir`? `mkdir` adalah `make directory` kegunaannya adalah untuk membuat suatu folder
+Apa itu `mkdir`? `mkdir` adalah `make directory` kegunaannya adalah untuk membuat suatu folder
 
