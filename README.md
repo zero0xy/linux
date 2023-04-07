@@ -7,3 +7,5 @@ Apa itu `mkdir`? `mkdir` adalah `make directory` kegunaannya adalah untuk membua
 __Contoh perintah `mkdir` beserta fungsinya adalah sbb :__
 
 ![Screenshot (183)](https://user-images.githubusercontent.com/129971301/230545485-4deae04e-6887-4f76-b8b2-681770c79eb2.png)
+
+![Screenshot (184)](https://user-images.githubusercontent.com/129971301/230546721-3ddb8831-509f-4e47-91dc-41a7a7cb7dc5.png)
