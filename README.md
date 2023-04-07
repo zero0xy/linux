@@ -1,4 +1,5 @@
 # linux
 
-* **Bagian 1**
-    Belajar Command `mkdir` Di Kali Linux
+* `mkdir` Di Kali Linux
+
+akakak
