@@ -2,4 +2,5 @@
 
 * **Bagian 1**
 
-    **akakak**
+    **Belajar Command `mkdir` Di Kali Linux**
+
