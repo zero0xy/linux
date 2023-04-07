@@ -1,5 +1,5 @@
 # linux
 
-* `mkdir` Di Kali Linux
+* **Bagian 1**
 
-akakak
+    akakak
